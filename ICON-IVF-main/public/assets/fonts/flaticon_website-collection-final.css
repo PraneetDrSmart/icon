@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "flaticon_website-collection-final";
+    src: url("./flaticon_website-collection-final.ttf?eba25f668b2b56dab98d9b088b3b3ad1") format("truetype"),
+url("./flaticon_website-collection-final.woff?eba25f668b2b56dab98d9b088b3b3ad1") format("woff"),
+url("./flaticon_website-collection-final.woff2?eba25f668b2b56dab98d9b088b3b3ad1") format("woff2"),
+url("./flaticon_website-collection-final.eot?eba25f668b2b56dab98d9b088b3b3ad1#iefix") format("embedded-opentype"),
+url("./flaticon_website-collection-final.svg?eba25f668b2b56dab98d9b088b3b3ad1#flaticon_website-collection-final") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_website-collection-final !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone-call:before {
+    content: "\f101";
+}
+.flaticon-calendar:before {
+    content: "\f102";
+}
+.flaticon-family:before {
+    content: "\f103";
+}
+.flaticon-google:before {
+    content: "\f104";
+}
+.flaticon-whatsapp:before {
+    content: "\f105";
+}
+.flaticon-facebook:before {
+    content: "\f106";
+}
+.flaticon-instagram:before {
+    content: "\f107";
+}
+.flaticon-youtube:before {
+    content: "\f108";
+}
+.flaticon-doctor:before {
+    content: "\f109";
+}
+.flaticon-pin:before {
+    content: "\f10a";
+}
+.flaticon-arrow-up:before {
+    content: "\f10b";
+}
+.flaticon-menu:before {
+    content: "\f10c";
+}
+.flaticon-view:before {
+    content: "\f10d";
+}
+.flaticon-surgery:before {
+    content: "\f10e";
+}
+.flaticon-paper:before {
+    content: "\f10f";
+}
+.flaticon-heart:before {
+    content: "\f110";
+}
+.flaticon-heart-rate:before {
+    content: "\f111";
+}
+.flaticon-intestine:before {
+    content: "\f112";
+}
